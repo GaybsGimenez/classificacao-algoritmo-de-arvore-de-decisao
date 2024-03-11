@@ -35,7 +35,7 @@ IMPORTANTE!!
 - **census.pkl**: Conjunto de dados para previsão de renda do censo.
 
 ### Requisitos:
-- Python 3.x
+- Python 3.11.x
 - Bibliotecas: `pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`, `scikit-learn`, `yellowbrick`
 
 ### Funcionalidade:
